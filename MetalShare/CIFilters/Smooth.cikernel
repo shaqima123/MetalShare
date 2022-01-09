@@ -1,0 +1,4 @@
+kernel vec4 myColor(__sample source) {
+    float maskValue = smoothstep(0.01, 0.99, source.b);
+    return vec4(maskValue,maskValue,maskValue,1.0);
+}

@@ -1,0 +1,24 @@
+{
+    "fileFormatVersion": "1.0.0",
+    "itemInfoEntries": {
+        "89B9CDA3-2620-4EB0-A264-7828237D45F2": {
+            "author": "com.apple.CoreML",
+            "description": "CoreML Model Specification",
+            "name": "DeepLabV3.mlmodel",
+            "path": "com.apple.CoreML/DeepLabV3.mlmodel"
+        },
+        "B5E6112E-A36C-4B85-953D-7FA1F265ACC8": {
+            "author": "com.apple.CoreML",
+            "description": "External Metadata Overlay",
+            "name": "Metadata.json",
+            "path": "com.apple.CoreML/Metadata.json"
+        },
+        "C12A8C5B-44E7-473B-9038-B18C8A6FDB7B": {
+            "author": "com.apple.CoreML",
+            "description": "External FeatureDescription Overlay",
+            "name": "FeatureDescriptions.json",
+            "path": "com.apple.CoreML/FeatureDescriptions.json"
+        }
+    },
+    "rootModelIdentifier": "89B9CDA3-2620-4EB0-A264-7828237D45F2"
+}
